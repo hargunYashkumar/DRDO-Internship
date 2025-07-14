@@ -1,7 +1,4 @@
 # DRDO-Internship
-
-# DRDO-Internship
-
 # DRDO Internship – Quantum Computing Algorithms (Qiskit)
 
 This repository contains the Python notebook implementations of various quantum computing algorithms and concepts explored during my internship at **DRDO, Delhi**. The focus was on hands-on practice and understanding of foundational quantum algorithms using the [Qiskit](https://qiskit.org/) library.
